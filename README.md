@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 
-پروژه ها برای استفاده شخصی فورک و یا ساخته شده اند
+پروژه ها برای استفاده شخصی ساخته شده اند
 
 <!---
 masooooood/masooooood is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
